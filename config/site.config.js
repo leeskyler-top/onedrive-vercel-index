@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Spencer's OneDrive",
+  title: "Skyler's School Public Drive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -65,4 +65,7 @@ module.exports = {
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
   datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
+  protectedRoutes: [
+    "/青年大学习存档/",
+  ]
 }
