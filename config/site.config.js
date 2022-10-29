@@ -45,8 +45,11 @@ module.exports = {
   // protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
   
     protectedRoutes: [
-    "/青年大学习存档/",
+    "/花名册模板/",
+    "/信息技术系214L01与信息技术系学生分会劳动部-青年大学习管理区/",
+    "/信息技术系214L01-工作区/",
     "/团委学生会校风监察部午间巡逻组/",
+    "/信息技术系学生分会劳动部-工作区/",
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
