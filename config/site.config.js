@@ -46,6 +46,7 @@ module.exports = {
   
     protectedRoutes: [
     "/青年大学习存档/",
+    "/团委学生会校风监察部午间巡逻组/",
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
